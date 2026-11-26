@@ -6,6 +6,8 @@ A free pack of **32 coastal and harbor vector props** for 2D games, visual novel
 
 **Download the full pack (free) on itch.io:** https://csvclinic.itch.io/quiet-harbor-props
 
+A small interactive HTML5 canvas sample scene that uses these props is in [quiet-harbor-sample-scene](https://github.com/dtpnm857jk-create/quiet-harbor-sample-scene). You can [play it online](https://dtpnm857jk-create.github.io/quiet-harbor-sample-scene/).
+
 ## What's in the pack
 
 - `svg/`: 32 standalone SVG files (256 viewBox, scalable)
